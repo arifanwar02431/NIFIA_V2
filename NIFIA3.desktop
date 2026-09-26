@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Name=NIFIA3
+Comment=Kontrol Kamera
+Exec=python3 /home/nifia/Documents/NIFIA/NIFIA_HPL.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
